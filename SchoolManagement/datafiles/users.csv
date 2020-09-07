@@ -1,0 +1,11 @@
+User Type,User ID,Password,Name,Email,Address,Phone,[Other fields]
+admin,admin,admin,Jasinda Ardern,jasinda@gmail.com,NZ: Wellington,+64001234566
+teacher,T1,1234,Jerry Cain,jerry@yahoo.com,NZ: Auckland,+6402123456,PhD
+teacher,T2,bob_12,Amanda Fox,fox@gmail.com,NZ: Queenstown,+6431234567,none
+teacher,T3,pass5,Ian Danidin,dan@gmail.nz,NZ: Danidin,+641234567,MD
+student,S1,Cat,Mia Abrams,mia@gmail.com,NZ: Auckland,+6412308990
+student,S2,Dog,Melanie Lynskey,mel1@gmail.com,NZ: New Plymouth,+6409601023
+student,S3,rabbit18,Mat Daymon,mat@gmail.com,NZ: Auckland,+6410234567
+student,S4,_sand_,Hu Jin,hu@sina.com,China: Beijing,+861234567
+student,S5,000,Ashley Watsons,ash@yahoo.com,US: San Fransisco,+1023456789
+student,S6,no_pass,Oliver Waters,oliv@gmail.com,NZ: Wellington,+64041234
